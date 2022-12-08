@@ -1,5 +1,5 @@
 ---
-title: "Title TBD"
+title: "Currency exchange model in mycorrhizae associations"
 author: "J. Hillert"
 date: "`r Sys.Date()`"
 output:
@@ -32,7 +32,41 @@ options(knitr.kable.NA = "")
 
 ```
 
-#
+There are several forms of mycorrhizae with whom plants are able to associate and exchange nutrients, each partner supplying a resource for trade. These associations can range from endophytic - where the fungus gains excess Carbon (C) and the plant is neutrally affected, to exploitative as is the case for fungus and orchids. Association with mycorrhizae comes with costs and benefits to both the host and the symbiont. In endophytic associations, the fungus gains C and habitat while the plant is neutrally affected. In balanced associations, each partner gives up a resource in exchange for another imposing a cost and benefit on both parties. Lastly, in exploitative associations with orchids, the host receives mineral nutrients and a mechanism for seed germination, while the symbiont receives no benefit and grows just as well with a host as without. Research that uses currency exchange models provide more detail about the association between host and symbiont. These associations are then affected by spatial and temporal scales that affect the nutrient exchange.
+
+Mycorhizzae associations are proposed to begin with endophytic associations, upon increased commitment and specialization between partners the association advances toward a balanced association [@Brun2002]. These initial associations are either positive-neutral or positive-negative, in benefit to the symbiont and cost to the host. Benefits for the symbiont include greater access to excess plant C, first access to the host upon death, and evasion of competition, predation, and parasitism by other organisms. Plant benefits are either, neutral and likely to evolve into protection from more harmful fungi or a negative harmful association that would be selected against evolutionarily. Balanced associations develop from endophytic associations to exchange hosts excess C for excess mineral nutrients in the symbiont. The exchange occurs in an interface zone where each partner must overcome barriers to maintain the association and avoid cheaters. Exploitative associations, i.e. orchid mycorhizae, occur when the host is fully reliant on the symbiont for mineral nutrients, seed germination, and - for chorophyll-lacking orchids - organic C assimilated by the symbiont. These are not yet fully understood associations as the symbiont is able to survive as well with the host as without. 
+
+
 
 
 # References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
